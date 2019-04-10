@@ -1,0 +1,14 @@
+.RouterMainBody{
+    padding-left: 55px;
+}
+
+.SideNavWrapperClass{
+    position: fixed;
+    background: #3d5f8c;
+}
+.SideNavImages{
+    max-width: 100%;
+    max-height: 70%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+}

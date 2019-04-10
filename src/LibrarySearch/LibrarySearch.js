@@ -51,7 +51,7 @@ class LibrarySearch extends Component {
             <SearchkitProvider searchkit={searchkit}>
                 <Layout>
                     <TopBar>
-                        <div className="my-logo">Searchkit Acme co</div>
+                        <div className="my-logo">Boardgames & RPG Soc</div>
                         <SearchBox autofocus={true} searchOnChange={true} prefixQueryFields={["actors^1","type^2","languages","title^10"]}/>
                     </TopBar>
 

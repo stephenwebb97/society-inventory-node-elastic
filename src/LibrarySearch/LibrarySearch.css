@@ -7,3 +7,11 @@
     margin-right:15px;
     line-height: 16px;
 }
+
+.sk-layout__top-bar{
+    position: inherit;
+}
+
+.sk-layout__body{
+    margin: 0;
+}
